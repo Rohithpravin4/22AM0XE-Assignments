@@ -60,11 +60,13 @@ https://colab.research.google.com/drive/1A6E0_ORxFBJ9iVBObdwDLiCbMlQ3_4ro?usp=sh
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/93557ebb-26f1-4c9e-be35-8dbcc262dc8d)
+> ![image](https://github.com/user-attachments/assets/70a1febf-9544-4977-b368-709264043e3b)
 
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/e03ad137-daaa-4a4c-8ca2-06fc75701baa)
+![image](https://github.com/user-attachments/assets/f80a115d-b0b8-4986-880a-0e38ed4ccac7)
 
 ***
