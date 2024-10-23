@@ -75,8 +75,8 @@
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
-
+![image](https://github.com/user-attachments/assets/1d75fded-689b-4d22-8e11-d849413d8f16)
+https://github.com/Rohithpravin4/22AM0XE-Assignments/wiki
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
