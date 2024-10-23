@@ -55,8 +55,18 @@ https://colab.research.google.com/drive/1A6E0_ORxFBJ9iVBObdwDLiCbMlQ3_4ro?usp=sh
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
-
+> - Spotify (Hosted in Google Cloud Platform)
+  - Logo:  ![download](https://github.com/user-attachments/assets/d0d6037e-d5a9-40e2-afff-1112555dfb3e)
+  - Details: A Widely used platform for Listerning Musics.
+-  Slack (Hosted in IBM Cloud)
+  - Logo: ![download](https://github.com/user-attachments/assets/63f69f7d-7326-427d-9128-4b2f0df020ea)
+  - Details: A Cloud-Based Messaging Platform that helps team members to communicate each other.
+- Zoom (Hosted in Oracle Cloud)
+   - Logo: ![download](https://github.com/user-attachments/assets/0ec6e555-68ce-4825-ba67-349654fdde2a)
+   - Details: A Communication Platform that allows people to communicate to others via audio ,video ,phone and then chat.
+-  LinkedIn (Hosted in Microsoft Azure)
+  - Logo:  ![download](https://github.com/user-attachments/assets/59634fa7-4f40-4c9b-aa9e-541268030b22)
+  - Details : A Professional Platform that connects Professionals ,Students and Alumni.
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
